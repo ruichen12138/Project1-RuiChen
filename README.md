@@ -2,7 +2,7 @@
 ## Spring 2024
 ## Project 1: A "Data Story" on wine tasting reviews 
 
-<img src="ChiantiComes.jpeg" width="500">
+<img src="figs/ChiantiComes.jpeg" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 

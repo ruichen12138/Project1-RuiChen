@@ -1,4 +1,4 @@
-# ADS Project 1: What made you happy today?
+# ADS Project 1: Do you really know about wine? A guideline of finding good wines
 
 ### Doc folder
 
